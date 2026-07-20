@@ -25,8 +25,12 @@ computing and digital technology.
 ## 📊 GitHub Statistics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajays49&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ajays49&show_icons=true&theme=tokyonight&hide_border=true" alt="Ajay's GitHub Stats" width="47%" />
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=ajays49&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=ajays49&layout=compact&theme=tokyonight&hide_border=true)" alt="Most Used Languages" width="47%" />
+  <img src="[https://github-readme-stats.vercel.app/api?username=ajays49&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=ajays49&show_icons=true&theme=tokyonight&hide_border=true)" alt="Ajay's GitHub Stats" width="47%" />
+</p>
+
+<p align="left">
+  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=ajays49&theme=tokyonight&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=ajays49&theme=tokyonight&hide_border=true)" alt="GitHub Streak" width="94%" />
 </p>
 
 ---
