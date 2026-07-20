@@ -4,102 +4,50 @@
 ---
 
 ## 🚀 About Me
-* 🎓 **MSc Computer Science (Negotiated Learning)** at University College Dublin (GPA: 3.78/4.20)[cite: 1]
-* 🤖 **AI Automation & Web Developer Intern** at Babylon Radio[cite: 1]
+* 🎓 **MSc Computer Science (Negotiated Learning)** at University College Dublin (GPA: 3.78/4.20)[cite: 2]
+* 🤖 **AI Automation & Web Developer Intern** at Babylon Radio[cite: 2]
 * 🧠 **Passionate about:**
-  * Artificial Intelligence & Machine Learning[cite: 1]
-  * Large Language Models (LLMs) & Generative AI[cite: 1]
-  * Retrieval-Augmented Generation (RAG) & AI Automation[cite: 1]
-  * Computer Vision & Natural Language Processing (NLP)[cite: 1]
-  * Reinforcement Learning & Multi-modal Data Analysis[cite: 1]
+  * Artificial Intelligence & Machine Learning[cite: 2]
+  * Large Language Models (LLMs) & Generative AI[cite: 2]
+  * Retrieval-Augmented Generation (RAG) & AI Automation[cite: 2]
+  * Computer Vision & Natural Language Processing (NLP)[cite: 2]
+  * Reinforcement Learning & Multi-modal Data Analysis[cite: 2]
 
-💡 *I enjoy building intelligent systems that solve real-world problems using AI and scalable software engineering.*[cite: 1]
-
----
-
-## 💼 Current Focus (Babylon Radio)
-* 🔍 **Smart Search Systems** — Engineering advanced search features using Python and AI APIs[cite: 1].
-* 🌍 **AI Translation & Recommendations** — Integrating seamless language translation and content discovery pipelines[cite: 1].
-* 🤖 **AI Automation & Dashboards** — Streamlining operations by automating sign-in sheets and interactive employee dashboards[cite: 1].
+💡 *I enjoy building intelligent systems that solve real-world problems using AI and scalable software engineering.*[cite: 2]
 
 ---
 
-## 🛠 Tech Stack
+## 📊 GitHub Statistics
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | Python, SQL, R, Java, C, C++[cite: 1] |
-| **AI / Machine Learning** | Supervised & Unsupervised Learning, Tree-based Models, Ensemble Methods, Predictive Modelling[cite: 1] |
-| **Deep Learning & GenAI** | Transformers, LLM Optimization, Prompt Engineering, RAG, PyTorch, TensorFlow, Keras[cite: 1] |
-| **Frameworks & Ecosystems** | LangChain, Hugging Face ecosystem, Scikit-Learn, Pandas, NumPy[cite: 1] |
-| **Databases & MLOps** | PostgreSQL, MySQL, Supabase, Model Explainability & Monitoring, Git/GitHub[cite: 1] |
-| **Automation & UI** | n8n, Vapi, Twilio, ElevenLabs, Chain Forge, HTML, CSS, JavaScript[cite: 1] |
-| **Tools & Environments** | VS Code, Google Colab, RStudio, Kaggle, Jira, Trello[cite: 1] |
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajays49&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ajays49&show_icons=true&theme=tokyonight&hide_border=true" alt="Ajay's GitHub Stats" width="47%" />
+</p>
 
 ---
 
-## 📚 Research & Publications
-### 📄 Peer-Reviewed Papers
-* 🌾 **Intelligent Surveillance and Protection System for Agricultural Zones Using YOLO and Raspberry Pi** — *Springer Lecture Notes in Networks and Systems, Jan 2026*[cite: 1].
-* 🥗 **Raw Food Ingredient Classification with Denoising and Hybrid Deep Learning** — *Advances in Computer Science Applications and Research, Springer, June 2026*[cite: 1].
-* 🧠 **Simultaneous Enhancement and Detection of Brain Tumors Using GAN** — *Springer Lecture Notes in Networks and Systems, Aug 2025*[cite: 1].
-* 📄 **FILEQA: A Summarizer, Translator and Question Answerer using T5 Transformer** — *IEEE Digital Library, Aug 2025*[cite: 1].
-* 🔐 **Enhancing User Authentication for Financial Application Using Multi-Modal Behavioural Biometrics: A Survey** — *IEEE Digital Library, Apr 2025*[cite: 1].
-* 📱 **Detecting Depression in Social Media Using Machine Learning** — *IEEE Digital Library, Apr 2025*[cite: 1].
+## 🛠 Skills & Competencies
 
-### 💡 Published Patents (9 Patents)
-* 🧠 *System and method for determining the emotional state of users*[cite: 1]
-* 🤖 *Reconfigurable Surveillance Robot with Transformable Hemispheric State and Method Thereof*[cite: 1]
-* 🚰 *Multi-Purpose Smart Bucket System and Method for Automated Fluid Dispensing and Water Quality Management*[cite: 1]
-* 🚦 *Smart Traffic Management System Enabling Adaptive and Predictive Traffic Management*[cite: 1]
-* 🛗 *A Smart Elevator System and Method for Mitigating Claustrophobia in Users*[cite: 1]
-* *(And 4 other safety, email, and wearable monitoring systems)*[cite: 1]
+### 🧠 Deep Learning, GenAI & Advanced AI
+* **Languages:** ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)[cite: 2]
+* **Frameworks & Libs:** ![](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)[cite: 2]
+* **GenAI Ecosystem:** ![](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white) ![](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFFF00?style=flat-square)[cite: 2]
+* **Concepts:** Transformers, LLM Optimization, Prompt Engineering, Retrieval-Augmented Generation (RAG), Computer Vision, NLP, GANs, Reinforcement Learning, Multi-modal Data Analysis[cite: 2].
 
----
+### 🌐 Web Development & Automation
+* **Languages:** ![](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)[cite: 2]
+* **Databases:** ![](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)[cite: 2]
+* **Integration:** ![](https://img.shields.io/badge/n8n-FF6C37?style=flat-square&logo=n8n&logoColor=white) ![](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white) ![](https://img.shields.io/badge/ElevenLabs-000000?style=flat-square) ![](https://img.shields.io/badge/Vapi-Transparent?style=flat-square)[cite: 2]
 
-## 🚀 Featured Projects
-
-### 🤖 FILEQA
-An LLM-powered document assistant engineered with a multi-model pipeline utilizing **PyMuPDF** to parse unstructured data with 100% accuracy. Integrated **T5** and **BERT** models for automated summaries and contextual QA, alongside Google Trans API for cross-lingual support across 10+ languages[cite: 1].
-* *Tech Stack:* Python • T5 • BERT • PyMuPDF • Transformers • APIs[cite: 1]
-
-### 📄 Smart Hybrid Text Summarizer
-Developed a novel abstractive and reinforcement learning-driven text summarization architecture using **ROUGE score** metrics as an optimization reward framework, benchmarking results against modern LLMs like ChatGPT[cite: 1].
-* *Tech Stack:* Python • Deep Learning • Reinforcement Learning[cite: 1]
-
-### 🥗 Raw Food Ingredient Classification
-Designed and evaluated a custom **ReShGo net** model built specifically for advanced denoising and structural classification of complex raw food spices[cite: 1].
-* *Tech Stack:* PyTorch/TensorFlow • Computer Vision • Hybrid Deep Learning[cite: 1]
-
-### 📑 Computer Vision PDF Extraction
-Implemented and evaluated a hybrid **OpenCV + OCR** framework comparing four distinct algorithmic approaches (MuPdf, OCR, OCR+CNN, OpenCV+OCR) to robustly extract text from complex layout documents[cite: 1].
-* *Tech Stack:* Python • OpenCV • OCR • CNN[cite: 1]
-
----
-
-## 📊 GitHub Stats
-
-### 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ajays49&theme=dark)
-
-### 📈 Contribution Graph
-![Ajay's GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=ajays49&theme=github-dark)
-
-### 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ajays49&theme=onedark)
-
----
-
-## 📈 Achievements & Competencies
-* 🎓 **MSc Computer Science (NL)** @ University College Dublin (Current GPA: 3.78/4.20)[cite: 1].
-* 🎓 **BTech Computer Science & Engineering** @ Vellore Institute of Technology (Graduated GPA: 9.41/10)[cite: 1].
-* 🏅 Deployed real-world Conversational AI architectures during internships, achieving a **30% boost in customer interactions** and expanding client workflow efficiency by **60%**[cite: 1].
+### 💻 Core Software Engineering & Tools
+* **Languages:** ![](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)[cite: 2]
+* **Environments & PM:** ![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white) ![](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white) ![](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) ![](https://img.shields.io/badge/Trello-0079BF?style=flat-square&logo=trello&logoColor=white)[cite: 2]
 
 ---
 
 ## 🌐 Connect With Me
-* 💼 **LinkedIn:** [/in/ajay-sriram49](https://linkedin.com/in/ajay-sriram49)[cite: 1]
-* 💻 **Portfolio:** [ajaysriram.vercel.app](https://ajaysriram.vercel.app/)[cite: 1]
-* 📧 **Email:** [reachayaj02@gmail.com](mailto:reachajay02@gmail.com)[cite: 1]
+* 💼 **LinkedIn:** [/in/ajay-sriram49](https://linkedin.com/in/ajay-sriram49)[cite: 2]
+* 💻 **Portfolio:** [ajaysriram.vercel.app](https://ajaysriram.vercel.app/)[cite: 2]
+* 📧 **Email:** [reachajay02@gmail.com](mailto:reachajay02@gmail.com)[cite: 2]
 
 *"Building AI that creates real-world impact."* 🚀
