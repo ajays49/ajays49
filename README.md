@@ -30,9 +30,6 @@ computing and digital technology.
 
 ### 🔥 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ajays49&theme=dark)
-
-### 📈 Contribution Graph
-![Ajay's GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=ajays49&theme=github-dark)
 ---
 
 ## 🛠 Skills & Competencies
