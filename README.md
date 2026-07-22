@@ -18,7 +18,7 @@ computing and digital technology.
   * Computer Vision & Natural Language Processing (NLP)
   * Reinforcement Learning & Multi-modal Data Analysis
 
-💡 *I enjoy building intelligent systems that solve real-world problems using AI and scalable software engineering.*
+💡 *Passionate AI Engineer focused on designing and deploying scalable, production-grade AI systems that solve real-world operational challenges.*
 
 ---
 
