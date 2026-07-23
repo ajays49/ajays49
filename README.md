@@ -24,13 +24,13 @@ computing and digital technology.
 
 ## 📊 GitHub Statistics
 
-![Most Used Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ajays49&layout=compact&theme=dark&hide_border=true)
-
-![Ajay's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ajays49&show_icons=true&theme=dark&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ajays49&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ajays49&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="Ajay's GitHub Stats" width="48%" />
+</p>
 
 ### 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ajays49&theme=dark)
----
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ajays49&theme=dark&mode=daily)
 
 ## 🛠 Skills & Competencies
 
