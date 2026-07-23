@@ -25,8 +25,8 @@ computing and digital technology.
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ajays49&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" width="32%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ajays49&show_icons=true&theme=dark&hide_border=true&count_private=true&year=2026" alt="2026 Stats" width="32%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ajays49&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ajays49&show_icons=true&theme=dark&hide_border=true&count_private=true&year=2026" alt="2026 Stats" width="48%" />
 </p>
 
 ### 🔥 GitHub Streak
