@@ -26,7 +26,6 @@ computing and digital technology.
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ajays49&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" width="32%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ajays49&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="All Time Stats" width="32%" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ajays49&show_icons=true&theme=dark&hide_border=true&count_private=true&year=2026" alt="2026 Stats" width="32%" />
 </p>
 
