@@ -21,12 +21,22 @@ computing and digital technology.
 💡 *Passionate AI Engineer focused on designing and deploying scalable, production-grade AI systems that solve real-world operational challenges.*
 
 ---
-
-## 📊 GitHub Overview
+## 📊 GitHub Statistics & Languages
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajays49&theme=tokyonight" alt="GitHub Details" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ajays49&theme=tokyonight" alt="Languages" width="48%" />
+  <img src="https://skillicons.dev/icons?i=py,torch,fastapi,postgres,docker,git,github,bash,ts,js,react,nextjs&perline=6" alt="Tech Stack" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ajays49">
+    <img src="https://img.shields.io/github/followers/ajays49?label=Followers&style=for-the-badge&color=7aa2f7&logo=github" alt="Followers" />
+  </a>
+  <a href="https://github.com/ajays49">
+    <img src="https://img.shields.io/github/stars/ajays49?label=Total%20Stars&style=for-the-badge&color=e0af68&logo=github" alt="Total Stars" />
+  </a>
+  <a href="https://github.com/ajays49">
+    <img src="https://img.shields.io/badge/Status-Active%20Developer-9ece6a?style=for-the-badge&logo=git" alt="Status" />
+  </a>
 </p>
 
 ### 📈 Activity & Streak
