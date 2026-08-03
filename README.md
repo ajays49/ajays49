@@ -21,30 +21,10 @@ computing and digital technology.
 💡 *Passionate AI Engineer focused on designing and deploying scalable, production-grade AI systems that solve real-world operational challenges.*
 
 ---
-<p align="center">
-  <!-- Terminal Identity Card -->
-  <img src="https://terminal-identity.vercel.app/api/terminal?username=ajays49&theme=tokyonight" alt="Ajay's Terminal Card" width="48%" />
-  
-  <!-- GitHub Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajays49&theme=tokyonight&hide_border=true" alt="Contribution Graph" width="48%" />
-</p>
+## 📊 GitHub Statistics & Dashboard
 
-<!-- Highlights & 2026 Commit Badges -->
 <p align="center">
-  <a href="https://github.com/ajays49">
-    <img src="https://img.shields.io/github/commits-since/ajays49/ajays49/2026-01-01?style=for-the-badge&label=2026%20Commits&color=7aa2f7&logo=github" alt="2026 Commits" />
-  </a>
-  <a href="https://github.com/ajays49">
-    <img src="https://img.shields.io/badge/All--Time%20Commits-217%2B-bb9af7?style=for-the-badge&logo=git" alt="Total Commits" />
-  </a>
-  <a href="https://github.com/ajays49">
-    <img src="https://img.shields.io/github/followers/ajays49?style=for-the-badge&label=Followers&color=9ece6a&logo=github" alt="Followers" />
-  </a>
-</p>
-
-### 🔥 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ajays49&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="98%" />
+  <img src="https://raw.githubusercontent.com/ajays49/ajays49/main/github-metrics.svg" alt="Ajay's GitHub Dashboard" width="100%" />
 </p>
 
 ## 🛠 Skills & Competencies
