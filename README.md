@@ -25,15 +25,19 @@ computing and digital technology.
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajays49&layout=compact&theme=dark" alt="Most Used Languages" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ajays49&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
+  <a href="https://github.com/ajays49">
+    <img src="https://img.shields.io/github/followers/ajays49?label=Followers&style=for-the-badge&color=blue&logo=github" alt="Followers" />
+  </a>
+  <a href="https://github.com/ajays49">
+    <img src="https://img.shields.io/github/stars/ajays49?label=Total%20Stars&style=for-the-badge&color=yellow&logo=github" alt="Stars" />
+  </a>
+  <a href="https://github.com/ajays49">
+    <img src="https://img.shields.io/badge/Status-Active%20Developer-brightgreen?style=for-the-badge&logo=git" alt="Status" />
+  </a>
 </p>
 
-### 📈 Activity & Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajays49&theme=dark" alt="GitHub Streak" width="96%" />
-</p>
+### 📈 Contribution Graph
+*(GitHub automatically displays your contribution graph at the bottom of your main profile page!)*
 
 ## 🛠 Skills & Competencies
 
