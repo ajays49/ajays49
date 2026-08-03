@@ -22,21 +22,12 @@ computing and digital technology.
 
 ---
 
-## 📊 GitHub Statistics & Activity
-
 <p align="center">
-  <a href="https://github.com/ajays49">
-    <img src="https://img.shields.io/badge/Total%20Commits%20(2026)-217%2B-green?style=for-the-badge&logo=github" alt="2026 Commits" />
-  </a>
-  <a href="https://github.com/ajays49">
-    <img src="https://img.shields.io/badge/All--Time%20Commits-500%2B-blue?style=for-the-badge&logo=git" alt="Total Commits" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajays49&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" alt="Most Used Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ajays49&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" width="48%" />
 </p>
 
-### 📈 Contribution Graph
-![Ajay's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=ajays49&theme=github-dark)
-
-### 🔥 Active Streak
+### 🔥 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ajays49&theme=dark)
 
 ## 🛠 Skills & Competencies
