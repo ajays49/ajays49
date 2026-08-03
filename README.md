@@ -22,15 +22,22 @@ computing and digital technology.
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Statistics & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ajays49&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ajays49&show_icons=true&theme=dark&hide_border=true&count_private=true&year=2026" alt="2026 Stats" width="48%" />
+  <a href="https://github.com/ajays49">
+    <img src="https://img.shields.io/badge/Total%20Commits%20(2026)-217%2B-green?style=for-the-badge&logo=github" alt="2026 Commits" />
+  </a>
+  <a href="https://github.com/ajays49">
+    <img src="https://img.shields.io/badge/All--Time%20Commits-500%2B-blue?style=for-the-badge&logo=git" alt="Total Commits" />
+  </a>
 </p>
 
-### 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=ajays49&theme=dark&mode=daily)
+### 📈 Contribution Graph
+![Ajay's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=ajays49&theme=github-dark)
+
+### 🔥 Active Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ajays49&theme=dark)
 
 ## 🛠 Skills & Competencies
 
