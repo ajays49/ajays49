@@ -25,18 +25,20 @@ computing and digital technology.
 ## 📊 GitHub Statistics & Highlights
 
 <p align="center">
-  <a href="https://github.com/ajays49">
-    <img src="https://img.shields.io/github/followers/ajays49?label=Followers&style=for-the-badge&color=0052CC&logo=github" alt="Followers" />
-  </a>
-  <a href="https://github.com/ajays49">
-    <img src="https://img.shields.io/github/stars/ajays49?label=Total%20Stars&style=for-the-badge&color=FFAB00&logo=github" alt="Total Stars" />
-  </a>
-  <a href="https://github.com/ajays49">
-    <img src="https://img.shields.io/badge/2026%20Commits-200%2B-28A745?style=for-the-badge&logo=git&logoColor=white" alt="2026 Commits" />
-  </a>
-  <a href="https://github.com/ajays49">
-    <img src="https://img.shields.io/badge/Total%20Commits-500%2B-0747A6?style=for-the-badge&logo=github" alt="Total Commits" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajays49&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ajays49&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Ajay's Stats" width="48%" />
+</p>
+
+### 📈 Activity & Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ajays49&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="98%" />
+</p>
+
+### 🌊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajays49&theme=tokyonight&hide_border=true" alt="Contribution Graph" width="98%" />
 </p>
 
 ## 🛠 Skills & Competencies
