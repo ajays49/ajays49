@@ -22,11 +22,11 @@ computing and digital technology.
 
 ---
 
-## 📊 GitHub Statistics & Highlights
+## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=ajays49&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" width="48%" />
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=ajays49&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Ajay's Stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajays49&theme=tokyonight" alt="GitHub Details" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ajays49&theme=tokyonight" alt="Languages" width="48%" />
 </p>
 
 ### 📈 Activity & Streak
