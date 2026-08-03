@@ -22,23 +22,18 @@ computing and digital technology.
 
 ---
 
-## 📊 GitHub Statistics & Activity
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://metrics.le训.dev/ajays49?template=classic&base=header,activity,community&config.timezone=Europe%2FDublin" alt="Ajay's Metrics" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajays49&layout=compact&theme=dark" alt="Most Used Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ajays49&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
 </p>
+
+### 📈 Activity & Streak
 
 <p align="center">
-  <a href="https://github.com/ajays49">
-    <img src="https://img.shields.io/github/commits-since/ajays49/ajays49/2026-01-01?style=for-the-badge&label=2026%20Commits&color=2ea44f&logo=github" alt="2026 Commits" />
-  </a>
-  <a href="https://github.com/ajays49">
-    <img src="https://img.shields.io/badge/All--Time%20Commits-217%2B-blue?style=for-the-badge&logo=git" alt="Total Commits" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajays49&theme=dark" alt="GitHub Streak" width="96%" />
 </p>
-
-### 📈 Contribution Matrix
-![Ajay's Activity Matrix](https://kramdown-github-activity-graph.vercel.app/graph?username=ajays49&theme=github-dark)
 
 ## 🛠 Skills & Competencies
 
