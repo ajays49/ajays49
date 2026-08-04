@@ -29,9 +29,6 @@ computing and digital technology.
 
 <p align="center">
   <a href="https://github.com/ajays49">
-    <img src="https://img.shields.io/github/commits-since/ajays49/ajays49/2026-01-01?style=for-the-badge&label=2026%20Commits&color=7aa2f7&logo=github" alt="2026 Commits" />
-  </a>
-  <a href="https://github.com/ajays49">
     <img src="https://img.shields.io/badge/Total%20Commits-217%2B-bb9af7?style=for-the-badge&logo=git" alt="Total Commits" />
   </a>
   <a href="https://github.com/ajays49">
