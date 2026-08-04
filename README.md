@@ -45,11 +45,7 @@ computing and digital technology.
   <img src="https://streak-stats.demolab.com/?user=ajays49&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="98%" />
 </p>
 
-### 🛠️ Tech Stack & Languages
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,torch,fastapi,postgres,docker,git,github,bash,ts,js,react,nextjs&perline=6" alt="Tech Stack" />
-</p>
 ## 🛠 Skills & Competencies
 
 ### 🧠 Deep Learning, GenAI & Advanced AI
