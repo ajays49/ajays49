@@ -24,8 +24,6 @@ computing and digital technology.
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <!-- All-Time Stats -->
-  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=ajays49&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="All Time Stats" width="48%" />
   
   <!-- 2026 Specific Stats -->
   <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=ajays49&show_icons=true&theme=radical&count_private=true&year=2026" alt="2026 Stats" width="48%" />
