@@ -21,25 +21,21 @@ computing and digital technology.
 💡 *Passionate AI Engineer focused on designing and deploying scalable, production-grade AI systems that solve real-world operational challenges.*
 
 ---
-## 📊 GitHub Statistics & Dashboard
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajays49&theme=tokyo-night&hide_border=true" alt="Contribution Wave" width="98%" />
+  <!-- All-Time Stats -->
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=ajays49&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="All Time Stats" width="48%" />
+  
+  <!-- 2026 Specific Stats -->
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=ajays49&show_icons=true&theme=radical&count_private=true&year=2026" alt="2026 Stats" width="48%" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ajays49">
-    <img src="https://img.shields.io/badge/Total%20Commits-217%2B-bb9af7?style=for-the-badge&logo=git" alt="Total Commits" />
-  </a>
-  <a href="https://github.com/ajays49">
-    <img src="https://img.shields.io/github/followers/ajays49?style=for-the-badge&label=Followers&color=9ece6a&logo=github" alt="Followers" />
-  </a>
-</p>
-
-### 🔥 Activity & Streak
+### 💻 Most Used Languages & Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ajays49&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="98%" />
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=ajays49&layout=compact&theme=radical" alt="Most Used Languages" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=ajays49&theme=radical" alt="GitHub Streak" width="48%" />
 </p>
 
 
